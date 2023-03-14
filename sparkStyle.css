@@ -1,0 +1,10 @@
+.spark{
+    position: fixed;
+    height: 1px;
+    width: 1px;
+    border-radius: 100%;
+    background-color: #fff;
+    box-shadow: 0 0 5px 2px #FFFD51, 0 0 50px 5px #FFFC00;
+    /* -webkit-appearance: none; */
+    -webkit-box-shadow: 0 0 5px 2px #FFFD51, 0 0 50px 5px #FFFC00;
+}
